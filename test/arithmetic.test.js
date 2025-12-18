@@ -204,5 +204,10 @@ describe('Arithmetic', function () {
                     done();
                 });
         });
+        if (condition) {
+            
+        } else {
+            
+        }
     });
 });
